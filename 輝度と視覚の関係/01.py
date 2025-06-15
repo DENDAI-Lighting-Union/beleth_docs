@@ -41,4 +41,4 @@ ax.text(text_x, text_y, equation_text, fontsize=12,
         ha='center', va='center',
         bbox=dict(facecolor='white', alpha=0.8, edgecolor='none', boxstyle='round,pad=0.5'))
 
-plt.savefig("main_1.png")
+plt.savefig("main.png")
