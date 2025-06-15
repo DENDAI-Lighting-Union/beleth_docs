@@ -18,7 +18,7 @@ LED 照明等の照明器具の明るさと、人間が実際に感じる明る�
 
 ## CIE による数式化
 
-[CIELAB color space(L*a*b)](https://en.wikipedia.org/wiki/CIELAB_color_space)によると、L と Y の間に以下のような関係があると示されている。
+[CIELAB color space(L\*a\*b)](https://en.wikipedia.org/wiki/CIELAB_color_space)によると、L と Y の間に以下のような関係があると示されている。
 
 $$L^*  = 116f(\frac{Y}{Y_n})-16$$
 ただし、$Y_n$は基準となるホワイトポイントの CIEXYZ での三刺激値を表し、大抵は 100 となる。また$f(t)$は以下の関数で定義される。
